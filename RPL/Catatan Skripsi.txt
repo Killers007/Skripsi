@@ -53,3 +53,5 @@ Kenapa dibuat, padahal aplikasi sudah di buat dan dipakai?
 Aplikasi digunakan untuk memfasilitasi Pengecekan Lokasi Pegawai ULM sesuai instruksi pemerintah nomor XXX dan media presensi pegawai selama masa pandemi.
 
 Bagian Kepagawaian dan Umum Universitas Lambung Mangkurat
+
+https://www.linovhr.com/pilih-absensi-online-atau-finger-print/
